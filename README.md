@@ -1,4 +1,5 @@
 # uMANIAC
+
 ****************************
 uMANIAC-V0.5 PRE_ALPHA!
 uMANIAC - generative sequencer music module for Arduino with a cellular automata core
@@ -29,11 +30,11 @@ these lines of code i uncomment for testing / hardware build, which calls the IS
 
 =>
     
-  // ********************SECTION FOR TESTING WITHOUT EXT CLOCK. COMMENT OUT WHEN USING CLOCK IN ****************
-    // RUN CA ALGORITHM  
-    //delay(250);
-    //castep();
- // ******************** END _ SECTION FOR TESTING WITHOUT EXT CLOCK. COMMENT OUT WHEN USING CLOCK IN ****************
+// ********************SECTION FOR TESTING WITHOUT EXT CLOCK. COMMENT OUT WHEN USING CLOCK IN ****************
+// RUN CA ALGORITHM  
+//delay(250);
+//castep();
+// ******************** END _ SECTION FOR TESTING WITHOUT EXT CLOCK. COMMENT OUT WHEN USING CLOCK IN ****************
 
 <=
 
@@ -47,9 +48,13 @@ some of my thoughts on patenting ended up online here =>
 https://noise-admiration.blogspot.com.au/2016/10/the-45sis-no2-2016-david-burraston.html
 
 
-// Dave Burraston 2017
-// www.noyzelab.com
-// ****************************
-// ANYONE WISHING TO CONTRIBUTE FINANCIALLY, OR OTHERWISE COLLABORATE ON THIS PROJECT PLEASE FEEL FREE TO EMAIL ME : noyzelab@gmail.com
-// ****************************
+Dave Burraston 2017
+
+www.noyzelab.com
+
+****************************
+
+ANYONE WISHING TO CONTRIBUTE FINANCIALLY, OR OTHERWISE COLLABORATE ON THIS PROJECT PLEASE FEEL FREE TO EMAIL ME : noyzelab@gmail.com
+
+****************************
 
